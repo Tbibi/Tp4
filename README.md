@@ -1,7 +1,7 @@
 # Tp4 Micro-services avec Spring Cloud
 ![image](https://github.com/Tbibi/Tp4/assets/93666989/2aeeb871-b257-4e7f-b254-33a465e97ea1)
 <h2>Utilisation du consul comme étant un service de découverte, de surveillance et de configuration pour les architectures de microservices.</h2>
-![image](https://github.com/Tbibi/Tp4/assets/93666989/f303d8f6-78f8-4a2c-af79-bf163cbb0f6c)
+![Alt Text](https://github.com/Tbibi/Tp4/assets/93666989/f303d8f6-78f8-4a2c-af79-bf163cbb0f6c)
 <h2>config-service qui va regrouper les paramètres de chacune des microservices</h2>
 ![image](https://github.com/Tbibi/Tp4/assets/93666989/b3b8eb44-dc16-4e2d-9f67-f1b206e6e6fd)
 <h2>Utilisation de Vault qui s'agit d'un outil de gestion des secrets.Il permet de stocker, gérer et distribuer des secrets, comme des clés d'API, des mots de passe et d'autres informations sensibles</h2>
